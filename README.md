@@ -1,2 +1,15 @@
-# ChatBot_2024MDP
-2024 MDP CHATBOT PROJECT
+## AI ChatBot Project😎
+제작자 : 이유빈👩🏻‍🎓
+
+## Project: 인마고 Q&A ChatBot
+
+
+## 개발기간📅
+- 2024년 4월 16일 ~
+
+## 진행사항
+- 4월 셋째주 : 프로젝트 구상
+- 4월 넷째주 : 외형 그리기, Basic 코드 작성
+- 5월 1~2주  : 시중 데이터셋으로 챗봇 구성
+ 
+
