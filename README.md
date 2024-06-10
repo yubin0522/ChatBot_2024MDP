@@ -1,7 +1,7 @@
 ## AI ChatBot Project
 제작자 : 이유빈👩🏻‍🎓
 
-## Project: 인마고 Q&A ChatBot 🤖
+## Project: MEI Bot 🤖
 
 
 ## 개발기간📅
